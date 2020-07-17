@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jamf on thoughts on...</title>
-    <link>https://prestonkemp.com/tags/jamf/</link>
-    <description>Recent content in jamf on thoughts on...</description>
+    <title>jamf on Honeybadger Training</title>
+    <link>https://video.honeybadgers.tech/tags/jamf/</link>
+    <description>Recent content in jamf on Honeybadger Training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://prestonkemp.com/tags/jamf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://video.honeybadgers.tech/tags/jamf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jamf and AWS</title>
-      <link>https://prestonkemp.com/post/jamf-and-aws/</link>
+      <link>https://video.honeybadgers.tech/post/jamf-and-aws/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://prestonkemp.com/post/jamf-and-aws/</guid>
+      <guid>https://video.honeybadgers.tech/post/jamf-and-aws/</guid>
       <description></description>
     </item>
     
