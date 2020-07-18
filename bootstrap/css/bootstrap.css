@@ -336,7 +336,7 @@ h6 {
 }
 .h1,
 h1 {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
 }
 .h2,
 h2 {
@@ -9478,7 +9478,6 @@ img::-moz-selection {
     }
     #mainNav .navbar-brand {
         padding: 10px 20px;
-        color: #fff;
     }
     #mainNav .navbar-brand:focus,
     #mainNav .navbar-brand:hover {
@@ -9571,7 +9570,7 @@ img::-moz-selection {
   }
   #mainNav .navbar-brand {
       font-weight: 800;
-      color: hsla(0,0%,100%,.85);
+      color: #fff;
   }
   #mainNav .navbar-toggler {
       font-size: 12px;
@@ -9581,6 +9580,13 @@ img::-moz-selection {
       color: hsla(0,0%,100%,.85);
   }
 }
+
+.post-heading {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 header.masthead {
     margin-bottom: 50px;
     background: no-repeat 50%;
