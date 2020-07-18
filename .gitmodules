@@ -1,6 +1,3 @@
 [submodule "themes/blank"]
 	path = themes/blank
 	url = https://github.com/pkkemp/blank
-[submodule "public"]
-	path = public
-	url = https://github.com/pkkemp/video-honeybadgers-tech
